@@ -8,6 +8,11 @@
 - Easy-to-use API.
 - Lightweight and efficient for string manipulation tasks.
 
+## Pub Dev
+
+[Pub Dev for the package.](https://pub.dev/packages?q=string_to_letters_plugin)
+
+
 ## Installation
 
 Add the following dependency in your `pubspec.yaml` file:
