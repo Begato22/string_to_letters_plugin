@@ -1,18 +1,17 @@
 # string_to_letters_plugin
 
-A new Flutter plugin project.
+`string_to_letters_plugin` is a Flutter plugin that allows you to convert a string into a list of individual letters. This plugin is helpful for scenarios where you need to manipulate each character in a string for custom processing, animations, or other use cases in your Flutter apps.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+- Convert any given string into a list of individual letters.
+- Easy-to-use API.
+- Lightweight and efficient for string manipulation tasks.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
 
-The plugin project was generated without specifying the `--platforms` flag, no platforms are currently supported.
-To add platforms, run `flutter create -t plugin --platforms <platforms> .` in this directory.
-You can also find a detailed instruction on how to add platforms in the `pubspec.yaml` at https://flutter.dev/docs/development/packages-and-plugins/developing-packages#plugin-platforms.
+Add the following dependency in your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  string_to_letters_plugin: ^1.0.0
