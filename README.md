@@ -14,4 +14,4 @@ Add the following dependency in your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  string_to_letters_plugin: ^0.0.1
+  string_to_letters_plugin: lastVersion
